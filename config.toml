@@ -2,3 +2,8 @@ baseURL = 'https://md-imtiaj.github,io/tools/'
 languageCode = 'en-us'
 title = 'Free Online Tools'
 theme = 'lightbi-hugo' 
+
+
+[permalinks]
+  posts = '/:slug/'
+  tags = '/:slug/'
