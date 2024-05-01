@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://md-imtiaj.github,io/tools/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Free Online Tools'
 theme = 'lightbi-hugo' 
